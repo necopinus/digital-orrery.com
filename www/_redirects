@@ -1,0 +1,15 @@
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+#
+/                                                              https://necopinus.xyz/digital-orrery.html
+/2017/09/16/travels-in-the-southwest-colorado-plateau/         https://necopinus.xyz/digital-orrery/2017-09-16-travels-in-the-southwest-colorado-plateau.html
+/2017/10/23/coast-to-coast/                                    https://necopinus.xyz/digital-orrery/2017-10-23-coast-to-coast.html
+/2017/11/11/pat-emilys-wedding/                                https://necopinus.xyz/digital-orrery/2017-11-11-pat-and-emilys-wedding.html
+/2017/12/21/aspen-co/                                          https://necopinus.xyz/digital-orrery/2017-12-21-aspen-co.html
+/2018/01/27/denver-botanic-gardens/                            https://necopinus.xyz/digital-orrery/2018-01-27-denver-botanic-gardens.html
+/2018/04/09/telluride-co-and-the-black-canyon-of-the-gunnison/ https://necopinus.xyz/digital-orrery/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison.html
+/2018/06/02/denver-botanic-gardens/                            https://necopinus.xyz/digital-orrery/2018-06-02-denver-botanic-gardens.html
+/2018/06/16/rocky-mountain-national-park/                      https://necopinus.xyz/digital-orrery/2018-06-16-rocky-mountain-national-park.html
+/2018/06/27/idaho/                                             https://necopinus.xyz/digital-orrery/2018-06-27-idaho.html
+/2018/07/08/great-sand-dunes-national-park/                    https://necopinus.xyz/digital-orrery/2018-07-08-great-sand-dunes-national-park.html
+/2018/07/23/the-circle-of-hope/                                https://necopinus.xyz/digital-orrery/2018-07-23-the-circle-of-hope.html
+/2018/10/28/october-adventures/                                https://necopinus.xyz/digital-orrery/2018-10-28-october-adventures.html
