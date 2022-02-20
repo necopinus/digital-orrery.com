@@ -1,6 +1,6 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 #
-/                                                              https://necopinus.xyz/digital-orrery.html
+/                                                              https://necopinus.xyz/
 /2017/09/16/travels-in-the-southwest-colorado-plateau/         https://necopinus.xyz/digital-orrery/2017-09-16-travels-in-the-southwest-colorado-plateau.html
 /2017/10/23/coast-to-coast/                                    https://necopinus.xyz/digital-orrery/2017-10-23-coast-to-coast.html
 /2017/11/11/pat-emilys-wedding/                                https://necopinus.xyz/digital-orrery/2017-11-11-pat-and-emilys-wedding.html
