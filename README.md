@@ -1,3 +1,3 @@
-# digital-orrery.com
+# Digital Orrery
 
-Redirects for digital-orrery.com → necopinus.xyz.
+Landing page for <https://www.digital-orrery.com>.
